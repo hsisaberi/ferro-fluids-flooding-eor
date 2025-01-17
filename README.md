@@ -18,6 +18,7 @@ This repository contains the code and models discussed in the research article *
 
 - Python 3.8 or higher
 - Libraries: `scikit-learn`, `numpy`, `matplotlib`, `tensorflow`, `scipy`
+- MATLAB 2016a (or later versions)
 
 ## Installation
 
