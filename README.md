@@ -31,9 +31,9 @@ Clone the repository:
 ## Usage
 
 1. **Run Classification Model (SVM):**
-   Navigate to the SVM folder and execute:
+   Navigate to the SVM classification folder and execute:
    ```bash
-   python svm_model.py
+   python svmproj.py
    ```
    Adjust kernel parameters (`RBF`, `Polynomial`, `Sigmoid`) in the script as needed.
 
