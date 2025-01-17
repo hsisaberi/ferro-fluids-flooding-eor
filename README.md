@@ -22,14 +22,10 @@ This repository contains the code and models discussed in the research article *
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-link.git
-   cd your-repo-folder
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+   git clone https://github.com/hsisaberi/ferro-fluids-flooding-eor.git
+   cd ferro-fluids-flooding-eor
    ```
 
 ## Usage
