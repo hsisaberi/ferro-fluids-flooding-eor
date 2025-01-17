@@ -84,6 +84,7 @@ If you use this repository, please cite the original article:
   pages={107908},
   year={2024},
   publisher={Elsevier}
+  doi={[https://doi.org/10.1016/j.engappai.2024.107908](https://doi.org/10.1016/j.engappai.2024.107908)}
 }
 ```
 
