@@ -84,10 +84,10 @@ If you use this repository, please cite the original article:
   pages={107908},
   year={2024},
   publisher={Elsevier}
-  doi={[https://doi.org/10.1016/j.engappai.2024.107908](https://doi.org/10.1016/j.engappai.2024.107908)}
+  doi={https://doi.org/10.1016/j.engappai.2024.107908}
 }
 ```
 
 ## Contact
 
-For questions or contributions, contact **[Hossein Saberi](mailto:e.esmailnezhad@hsu.ac.ir)**.
+For questions or contributions, contact **[Hossein Saberi](hossein.saberi1998@gmail.com)**.
