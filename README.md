@@ -70,7 +70,8 @@ Refer to the article for detailed data preprocessing steps and parameter ranges.
 
 - **SVM Classification:** Achieved high accuracy with an optimized RBF kernel.
 - **MLP Regression:** Delivered an R² of 0.9957, with low MSE and RMSE values.
-- **ANFIS Models:** Demonstrated excellent performance, with the Grid Partitioning variant being the simplest and most efficient.
+- **RBF Regression:** Delivered an R² of 0.9780, with low MSE and RMSE values.
+- **ANFIS Models:** Demonstrated excellent performance, with the subtractive clustering being the simplest and most efficient (R² of 0.9922).
 
 ## Citation
 
