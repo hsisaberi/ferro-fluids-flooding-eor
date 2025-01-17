@@ -41,19 +41,19 @@ Clone the repository:
    - **MLP Model:**
      Navigate to the `MLP` folder and run:
      ```bash
-     python mlp_model.py
+     MLP.m
      ```
    - **RBF Model:**
      Navigate to the `RBF` folder and run:
      ```bash
-     python rbf_model.py
+     RBF.m
      ```
    - **ANFIS Models:**
      Navigate to the `ANFIS` folder and choose the respective model:
      ```bash
-     python anfis_genfis1.py  # For Grid Partitioning
-     python anfis_genfis2.py  # For Subtractive Clustering
-     python anfis_genfis3.py  # For Fuzzy C-Means
+     GENFIS1.m
+     GENFIS2.m
+     GENFIS3.m
      ```
 
 ## Dataset
