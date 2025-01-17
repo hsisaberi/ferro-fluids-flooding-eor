@@ -1,6 +1,6 @@
 # Performance Evaluation of Ferro-Fluids Flooding in Enhanced Oil Recovery Operations Using Machine Learning
 
-This repository contains the code and models discussed in the research article **"Performance Evaluation of Ferro-Fluids Flooding in Enhanced Oil Recovery Operations Based on Machine Learning"**, published in *Engineering Applications of Artificial Intelligence*. The study uses multiple machine learning and AI techniques to predict the efficiency of ferro-fluids in enhanced oil recovery (EOR) in carbonate and sandstone reservoirs.
+This repository contains the code and models discussed in the research article [Performance Evaluation of Ferro-Fluids Flooding in Enhanced Oil Recovery Operations Based on Machine Learning](https://www.sciencedirect.com/science/article/abs/pii/S0952197624000666), published in *Engineering Applications of Artificial Intelligence*. The study uses multiple machine learning and AI techniques to predict the efficiency of ferro-fluids in enhanced oil recovery (EOR) in carbonate and sandstone reservoirs.
 
 ## Key Features
 
